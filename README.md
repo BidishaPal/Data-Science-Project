@@ -12,8 +12,8 @@
 ![Screenshot 2025-07-04 195642](https://github.com/user-attachments/assets/35d76920-b67c-4a9d-9670-18eeae0dc0df)
 
 
-TECHNOLOGY USED:
-Technologies Demonstrated:
+# TECHNOLOGY USED:
+## Technologies Demonstrated:
 
 NumPy - Advanced numerical computing Matplotlib - Complex multi-panel visualizations Scikit-learn - Machine learning algorithms SciPy - Statistical tests and optimization Pandas - Time series analysis Seaborn - Statistical visualization
 
